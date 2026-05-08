@@ -28,3 +28,11 @@ target
 
 # RustRover stuff
 .idea
+
+# AI assistant files (optional - uncomment if you don't want to track)
+# AGENTS.md
+# CLAUDE.md
+.cursorrules
+.cursor/
+.opencode/
+.github/copilot-instructions.md
